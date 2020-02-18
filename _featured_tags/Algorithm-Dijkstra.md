@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Dijkstra
 slug: dijkstra
-category: Algorithm
+category: algorithm
 menu: false
 order: 2
 ---

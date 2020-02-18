@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: DP
-slug: DP
-category: Algorithm
+slug: dp
+category: algorithm
 menu: false
 order: 1
 ---

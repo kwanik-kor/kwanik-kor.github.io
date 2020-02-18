@@ -2,8 +2,8 @@
 layout: post
 title:  "[백준BOJ-1753] 최단거리"
 subtitle:   "다익스트라(Dijkstra) 알고리즘에 대해 알아보자"
-categories: Algorithm
-tags: Dijkstra
+categories: algorithm
+tags: dijkstra
 comments: true
 ---
 

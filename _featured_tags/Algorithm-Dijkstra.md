@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Base
-slug: base
+title: Dijkstra
+slug: Dijkstra
 category: Algorithm
 menu: false
 order: 2

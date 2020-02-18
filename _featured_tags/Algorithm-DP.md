@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Base
-slug: base
+title: DP
+slug: DP
 category: Algorithm
 menu: false
 order: 1
